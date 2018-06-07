@@ -1,5 +1,5 @@
 ---
-title: kubernetes monitoring with heapster
+title: Kubernetes monitoring with heapster
 tags:
   - kubernetes
   - monitoring
